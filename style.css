@@ -1,0 +1,7 @@
+.question {
+    border: 3px solid black;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 15px;
+    padding: 5px;
+}
